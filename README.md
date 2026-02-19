@@ -1,5 +1,4 @@
-# pls follow me i need fake internet points
-
-cool ascii art
+I like open source a lot
 
 ![Cool ASCII Art](cool_art.png)
+
